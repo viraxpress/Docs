@@ -28,7 +28,8 @@
 <p><img src="https://demo.viraxpress.com/vx/ViraXpress/frontend/web/wysiwyg/VX-st5.png"></p>
 
 - **Primary Color:** Enter the value that you want to apply the color for the overall website.
-- If you are facing any nodejs issue while saving the configuration. kindly refer the below link (https://github.com/viraxpress/Documentation/blob/main/Theme-configuration.md#resolving-configuration-save-conflicts-for-tailwind)
+- If you are facing any nodejs issue while saving the configuration. kindly refer the below link
+  https://github.com/viraxpress/Docs/blob/main/Theme-Configuration.md#resolving-configuration-save-conflicts-for-tailwind
 
 ## Header:
 <p><img src="https://demo.viraxpress.com/vx/ViraXpress/frontend/web/wysiwyg/VX-st6.png"></p>
